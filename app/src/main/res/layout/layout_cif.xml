@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="594dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:fontFamily="casual"
+        android:text="Cada boton te mostrara una descripcion de como puede ser el incendio que estas precensiando cuando encuentres el que mas se asimile introduce el nombre del boton que has presionado, inmediatamente se dara a conocer los datos correspondientes  las autoridades para saber como auxiliar el incendio."
+        android:textColor="#F44336"
+        android:textSize="26sp"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="102dp" />
+</AbsoluteLayout>

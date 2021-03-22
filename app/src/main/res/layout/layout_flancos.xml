@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="Flancos: son las zonas en las que el viento incide de forma lateral al sentido del avance del fuego. En ellas el fuego avanza más lentamente y las llamas tienen menor intensidad."
+        android:textColor="#F44336"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="62dp" />
+</AbsoluteLayout>
